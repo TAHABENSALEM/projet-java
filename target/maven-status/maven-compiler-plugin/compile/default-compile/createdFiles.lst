@@ -1,0 +1,9 @@
+classes\DirectedGraph.class
+classes\Tree.class
+classes\Main.class
+classes\Graph.class
+classes\WeightedGraph.class
+classes\DataBase.class
+classes\IGraphManaging.class
+classes\UndirectedGraph.class
+classes\GraphManaging.class
